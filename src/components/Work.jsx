@@ -32,7 +32,7 @@ const Work = () => {
                 Phaser 3 HTML5 Game to Mobile via HOMER Wrapper.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://play.google.com/store/apps/details?id=com.homer.sesame&hl=en_CA&gl=US' target={'_blank'}>
+                <a href='https://play.google.com/store/apps/details?id=com.homer.sesame&hl=en_CA&gl=US' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     App Store Link
                   </button>
@@ -50,7 +50,7 @@ const Work = () => {
                 Mobile Browser Frienly Phaser 3 HTML5 Game.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://www.crazygames.com/game/ex4ce-beginnings' target={'_blank'}>
+                <a href='https://cpet.itch.io/ex4ce-beginnings' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -68,7 +68,7 @@ const Work = () => {
                 Mobile Browser Frienly Phaser 3 HTML5 Game. Mathgames.com's API.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://www.mathgames.com/play/mathimals.html' target={'_blank'}>
+                <a href='https://www.mathgames.com/play/mathimals.html' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -86,7 +86,7 @@ const Work = () => {
                 Pixi JS 4.6.0 HTML5 Game. Mathgames.com's API.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://www.mathgames.com/play/mathvsmonsters.html' target={'_blank'}>
+                <a href='https://www.mathgames.com/play/mathvsmonsters.html' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -104,7 +104,7 @@ const Work = () => {
                 Pixi JS 4.6.0 HTML5 Game. Mathgames.com's API.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://www.mathgames.com/play/viking-queen-defense.html' target={'_blank'}>
+                <a href='https://www.mathgames.com/play/viking-queen-defense.html' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -122,7 +122,7 @@ const Work = () => {
                 Phaser v3 HTML5 Game. Mobile Web Optimized.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://cpet.itch.io/mathsolve' target={'_blank'}>
+                <a href='https://cpet.itch.io/mathsolve' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -140,7 +140,7 @@ const Work = () => {
                 Phaser v2 HTML5 Game.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://www.omvic.on.ca/portal/quiz.aspx' target={'_blank'}>
+                <a href='https://www.omvic.on.ca/portal/quiz.aspx' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -158,7 +158,7 @@ const Work = () => {
                 Phaser v3 HTML5 Game. Mobile Web Optimized.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://www.y8.com/games/shmupnage' target={'_blank'}>
+                <a href='https://www.y8.com/games/shmupnage' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -176,7 +176,7 @@ const Work = () => {
                 Pixi HTML5 Game. Mobile Web Optimized.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://www.y8.com/games/galaxe' target={'_blank'}>
+                <a href='https://www.y8.com/games/galaxe' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>

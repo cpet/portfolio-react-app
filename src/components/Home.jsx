@@ -16,7 +16,7 @@ const Home = () => {
           This portfolio is built from ground up using React and Tailwind.
         </p>
         <div className='m-auto my-2'>
-          <a href="/work">
+          <a href="#/work">
             <button className='text-[#3C51A3] group border-2 border-[#3C51A3] px-6 py-3 my-2 flex items-center rounded-lg hover:text-slate-100
           hover:bg-[#3C51A3] animate-none duration-100'>
               View Work
@@ -28,21 +28,21 @@ const Home = () => {
         </div>
         {/* Socials placed on bottom of the page */}
         <div className='lg:hidden flex items-center justify-between max-w-[1200px] mx-auto my-4 py-4 gap-5'>
-          <a href='https://www.linkedin.com/in/cristian-petrescu-690bab18/' target='_blank'>
+          <a href='https://www.linkedin.com/in/cristian-petrescu-690bab18/' target='_blank' rel="noreferrer">
             <div className='rounded-full p-5 cursor-pointer hover:scale-110 ease-in duration-100 
             bg-blue-800 text-gray-100'>
               <FaLinkedin size={30} />
             </div>
           </a>
 
-          <a href='/contact'>
+          <a href='#/contact'>
             <div className='rounded-full p-5 cursor-pointer hover:scale-110 ease-in duration-100
             bg-red-800 text-gray-100'>
               <HiOutlineMail size={30} />
             </div>
           </a>
 
-          <a href='https://docs.google.com/document/d/1WTchuwHF63-Vqmx3hetkYZjSIOYv8gYJYjQ59Mpmgfs/edit?usp=sharing' target={'_blank'}>
+          <a href='https://docs.google.com/document/d/1WTchuwHF63-Vqmx3hetkYZjSIOYv8gYJYjQ59Mpmgfs/edit?usp=sharing' target={'_blank'} rel="noreferrer">
             <div className='rounded-full p-5 cursor-pointer hover:scale-110 ease-in duration-100
             bg-slate-800 text-gray-100'>
               <BsFillPersonLinesFill size={30} />
