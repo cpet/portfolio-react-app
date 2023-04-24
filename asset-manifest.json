@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfwind/static/css/main.00015265.css",
-    "main.js": "/portfwind/static/js/main.704204b4.js",
+    "main.js": "/portfwind/static/js/main.24ab6234.js",
     "static/media/Mathsolve.png": "/portfwind/static/media/Mathsolve.36a2d25b6b886cc550f8.png",
     "static/media/MathVsMonsters.png": "/portfwind/static/media/MathVsMonsters.fb27fb7540d67096077f.png",
     "static/media/OmvicQuiz.png": "/portfwind/static/media/OmvicQuiz.241db113e0c84de14fb7.png",
@@ -14,10 +14,10 @@
     "static/media/Chris_sm.jpg": "/portfwind/static/media/Chris_sm.14e5388128c574c9f0cd.jpg",
     "index.html": "/portfwind/index.html",
     "main.00015265.css.map": "/portfwind/static/css/main.00015265.css.map",
-    "main.704204b4.js.map": "/portfwind/static/js/main.704204b4.js.map"
+    "main.24ab6234.js.map": "/portfwind/static/js/main.24ab6234.js.map"
   },
   "entrypoints": [
     "static/css/main.00015265.css",
-    "static/js/main.704204b4.js"
+    "static/js/main.24ab6234.js"
   ]
 }
