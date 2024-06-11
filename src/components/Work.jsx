@@ -50,7 +50,7 @@ const Work = () => {
                 Mobile Browser Frienly Phaser 3 HTML5 Game.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://cpet.itch.io/ex4ce-beginnings' target={'_blank'} rel="noreferrer">
+                <a href='https://www.newgrounds.com/portal/view/760525' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
@@ -122,7 +122,7 @@ const Work = () => {
                 Phaser v3 HTML5 Game. Mobile Web Optimized.
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://cpet.itch.io/mathsolve' target={'_blank'} rel="noreferrer">
+                <a href='https://cpet.itch.io/match-2-math-solver' target={'_blank'} rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-[#3C51A3] font-bold text-lg'>
                     Play Link
                   </button>
